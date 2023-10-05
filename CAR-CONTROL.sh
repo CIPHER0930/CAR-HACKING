@@ -121,4 +121,4 @@ function control_steering() {
 
 # To use the script, simply call the `cansend_car()`, `bluetooth_command()`, `get_mp3_status()`, or `control_mp3()` function with the desired CAN message or Bluetooth command.
 # You can also specify the Bluetooth device name as the second argument to the `bluetooth_command()` function.
-# If no Bluetooth device name is specified, the script will discover Bluetooth devices and select the first                                                                                                    give me a readme.md text for the bash script above
+# If no Bluetooth device name is specified, the script will discover Bluetooth devices and select the first                                                                                                    
